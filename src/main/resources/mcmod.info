@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "bitdrones",
+  "name": "BitDrones",
+  "description": "Let drones help you!",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "url": "https://github.com/nekomeowww/BitDrones",
+  "updateUrl": "https://github.com/nekomeowww/BitDrones/releases",
+  "authorList": ["NekoMeowww"],
+  "credits": "NekoMeowww, ForgeDev",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
